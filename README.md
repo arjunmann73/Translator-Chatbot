@@ -14,7 +14,10 @@ Chatbot is only functional on Telegram when running on your local machine. Previ
 3. [Telepot library](https://telepot.readthedocs.io/en/latest/) (Telegram Bot API)
 
 ## Working of the chatbot
-abc
+#### 1. Firing up the chatbot
+Run the command: ``` python2 translatorbot.py ```, 
+and if all goes well, you will see the message: TranslatorNTU is up and running!....
+![](images/picture1.png)
 
 ## Authors
 @[arjunmann73](https://github.com/arjunmann73)
