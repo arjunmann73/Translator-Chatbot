@@ -40,6 +40,6 @@ The second recognised command is /list. It shows you all the possible 90 languag
 ---
 ![](images/picture4.png)
 
-## Authors
+## Author
 @[arjunmann73](https://github.com/arjunmann73)
 
