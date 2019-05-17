@@ -9,7 +9,7 @@ python2 translatorbot.py
 Chatbot is only functional on Telegram when running on your local machine. Previously, deployment was done using Heroku and Dropbox. However, monthly payments were required, making me stop it! :(
 
 ## Built With
-1. [Python2](https://www.python.org/downloads/) or later version
+1. [Python](https://www.python.org/downloads/) 
 2. [Telegram](https://telegram.org/)
 3. [Telepot library](https://telepot.readthedocs.io/en/latest/) (Telegram Bot API)
 4. [Yandex.Translate](https://translate.yandex.com/) (Third-party API)
