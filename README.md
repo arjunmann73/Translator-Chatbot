@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 Translation Chatbot on Telegram!
 
 ## Getting started
@@ -12,6 +12,7 @@ Chatbot is only functional on Telegram when running on your local machine. Previ
 1. [Python2](https://www.python.org/downloads/) or later version
 2. [Telegram](https://telegram.org/)
 3. [Telepot library](https://telepot.readthedocs.io/en/latest/) (Telegram Bot API)
+4. [Yandex.Translate](https://translate.yandex.com/) (Third-party API)
 
 ## Working of the chatbot
 #### 1. Firing up the chatbot
