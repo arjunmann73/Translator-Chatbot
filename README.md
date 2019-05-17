@@ -8,7 +8,7 @@ python2 translatorbot.py
 ```
 Chatbot is only functional on Telegram when running on your local machine. Previously, deployment was done using Heroku and Dropbox. However, monthly payments were required, making me stop it! :(
 
-## Prerequisites
+## Built With
 1. [Python2](https://www.python.org/downloads/) or later version
 2. [Telegram](https://telegram.org/)
 3. [Telepot library](https://telepot.readthedocs.io/en/latest/) (Telegram Bot API)
@@ -21,19 +21,19 @@ and if all goes well, you will see the message: Translator@NTU at your service..
 ---
 ![](images/picture5.png)
 
-### 2. Finding the chatbot on telegram
+#### 2. Finding the chatbot on telegram
 Search for @translator_123123bot in the search bar and hit start to interact with the chatbot!
 
 ---
 ![](images/picture2.png)
 
-### 3. /translate 
+#### 3. /translate 
 The first recognised command is /translate. Following is how you use it:
 
 ---
 ![](images/picture3.png)
 
-### 4. /list
+#### 4. /list
 The second recognised command is /list. It shows you all the possible 90 languages:
 
 ---
