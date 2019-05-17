@@ -17,5 +17,5 @@ Chatbot is only functional on Telegram when running on your local machine. Previ
 abc
 
 ## Authors
-@[arjunmann73](https://telepot.readthedocs.io/en/latest/)
+@[arjunmann73](https://github.com/arjunmann73)
 
