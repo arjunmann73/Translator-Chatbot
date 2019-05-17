@@ -17,24 +17,25 @@ Chatbot is only functional on Telegram when running on your local machine. Previ
 #### 1. Firing up the chatbot
 Run the command: ``` python2 translatorbot.py ```, <br>
 and if all goes well, you will see the message: Translator@NTU at your service....
+
 ---
 ![](images/picture5.png)
 
 ### 2. Finding the chatbot on telegram
 Search for @translator_123123bot in the search bar and hit start to interact with the chatbot!
-<br>
+
 ---
 ![](images/picture2.png)
 
 ### 3. /translate 
 The first recognised command is /translate. Following is how you use it:
-<br>
+
 ---
 ![](images/picture3.png)
 
 ### 4. /list
 The second recognised command is /list. It shows you all the possible 90 languages:
-<br>
+
 ---
 ![](images/picture4.png)
 
